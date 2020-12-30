@@ -15,3 +15,4 @@ CS499 Mathematics in Computer (Jie Li)
 
 EI209 Computer Organization (Jingwen Leng)
 
+CS339 Computer Networks (Yichao Chen, Guangtao Xue)
